@@ -1,0 +1,74 @@
+{
+  "version": "0.8.0",
+  "context": {
+    "save_on_unload": true,
+    "use_game_icons": true,
+    "format": {
+      "minutes_threshold": 60000,
+      "millis_threshold": 10000
+    },
+    "font": null,
+    "icon": {
+      "stack_text": {
+        "threshold": 2,
+        "scale": 0.4200001,
+        "anchor": "BottomRight",
+        "offset": [
+          -3.0,
+          -3.0
+        ],
+        "decoration": "Outline",
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "duration_text": {
+        "threshold_buff": 5000,
+        "threshold_ability": 4294967295,
+        "scale": 0.5,
+        "anchor": "Center",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "decoration": "Outline",
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "color_fast": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "color_slow": [
+          0.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "duration_bar": {
+        "height": 4.0,
+        "color": [
+          0.99999,
+          1.0,
+          0.99999,
+          0.80086577
+        ]
+      }
+    },
+    "edit": {
+      "during_combat": true,
+      "show_all": false
+    },
+    "edit_during_combat": null,
+    "edit_show_all": null
+  }
+}
