@@ -27,7 +27,7 @@ A few examples (You can see an in-depth list of features after the How to use se
 
 First, download the zip file to your reffect root folder like so:
 
-<img width="516" height="201" alt="image" src="https://github.com/user-attachments/assets/151e93b4-5901-4aa6-a287-ec6ad61b33d2" />
+<img width="566" height="217" alt="image" src="https://github.com/user-attachments/assets/057fbcc0-937b-4401-b915-e8da593e2daf" />
 
 Then right click > Extract here (the necessary files will be added to the packs and icons subfolders).
 
