@@ -3,7 +3,7 @@
 A collection of additional visual elements for a few profession mechanics and weapons with hard to track buff icons or trait interactions.
 Some of them feature minor animations so they will look better in motion!
 
-These are meant to look somewhat cohesive with the existing UI style, using fairly minimalistic graphics.
+These are meant to look somewhat cohesive with the existing UI style, using fairly minimalistic graphics or reusing exising UI assets.
 
 A few examples (You can see an in-depth list of features after the How to use section):
 
@@ -392,7 +392,3 @@ I've included a sepparate *Settings* file that will make duration bars and stack
 <img width="440" height="189" alt="image" src="https://github.com/user-attachments/assets/ae87bec5-1563-4c78-92f4-89f437f3d271" />
 
 (Make sure to backup yours if you have one already just in case!)
-
-# Notes
-
-Any effect duration based bar will be capped at 5 seconds, as durations over 5 seconds cannot be tracked by reffect for any effect that's not a boon or condition.
