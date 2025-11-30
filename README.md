@@ -371,19 +371,21 @@ b) You are in combat.
 
 c) You don't currently have the boon associated with the trait.
 
+A matching pulsing icon will appear over your weapon swap: 
+
 <img width="355" height="235" alt="image" src="https://github.com/user-attachments/assets/9e7cbe88-dc13-4872-8c05-b1409087352f" />
 
+<sup>1</sup>  *Except Renegade, as their alacrity generation is tied to gear choices. Their support trait merely improves their alacrity generation, it doesn't enable it.*
 
-A matching pulsing icon will appear over your weapon swap. If you don't like this feature you can simply disable the Boons element in the pack.
+If you don't like this feature you can simply disable the Boons element in the pack:
 
 <img width="241" height="309" alt="image" src="https://github.com/user-attachments/assets/4be2d296-747a-48e4-bc16-81003f18faee" />
 
 
-**Note:** Evoker's boon support trait, Familiar's Blessing, is a special case that requires a custom setup. It will make both alacrity and quickness blink if you don't have them, despite not being specialized in the appropriate Element to provide them. Generally this will not be an issue in group content since the other boon will be provided by your support. However, if you are always playing a quickness or alacrity build specifically, you can enable / disable the corresponding boon for Evoker specifically:
+**Note:** Evoker's boon support trait, **Familiar's Blessing**, is a special case that requires a custom setup. It will make both alacrity and quickness blink if you don't have them, despite not being specialized in the appropriate Element to provide them. Generally this will not be an issue in group content since the other boon will be provided by your support. However, if you are always playing a quickness or alacrity build specifically, you can enable / disable the corresponding boon for Evoker specifically:
 
 <img width="276" height="140" alt="image" src="https://github.com/user-attachments/assets/b10796c7-cf86-48d8-acdb-a7e8f10bd70b" />
 
-<sup>1</sup>  *Except Renegade, as their alacrity generation is tied to gear choices. Their support trait merely improves their alacrity generation, it doesn't enable it.*
 
 # Settings
 
