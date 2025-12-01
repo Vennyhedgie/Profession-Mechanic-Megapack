@@ -1,5 +1,7 @@
 # Venny's Profession Mechanic Reffect Megapack
 
+*If you find this useful and have some spare coin to tip, you can mail Oro Blanco in game.*
+
 A collection of additional visual elements for a few profession mechanics and weapons with hard to track buff icons or trait interactions.
 Some of them feature minor animations so they will look better in motion!
 
