@@ -82,6 +82,14 @@ This mechanic is quite crucial to maximizing Spellbreaker damage and felt like i
 
 # Guardian
 
+## Spear Illuminated
+
+Tracks both **Illuminated** and **Symbol of Luminance**. Whenever you have either or, the spear icon will light up.
+
+<img width="270" height="258" alt="image" src="https://github.com/user-attachments/assets/e3320f8d-802e-48de-9a37-5f17511ea42f" />
+<img width="533" height="266" alt="image" src="https://github.com/user-attachments/assets/7468ef90-3157-4ee9-a095-da1749e29bb7" />
+
+
 ## Firebrand
 
 Tracks stacks of **Swift Scholar**, obtained once per tome skill. Since the buff **grants pages once you reach the third stack** and removes itself, it will only go up to 2. Because of this, there are two options for this UI so you can pick whichever is more intuitive for you. 2 bars or 3 bars with the first filling up inmediately. In either case, you will be granted a page when using a tome skill when the bar is full.
@@ -242,6 +250,33 @@ While in combat, if the trait **Havoc Specialist** is equipped and endurance is 
 
 <img width="875" height="203" alt="image" src="https://github.com/user-attachments/assets/388a5fc8-5c20-40eb-8a1c-b05b53291dcf" />
 
+## Antiquary
+
+Tracks all **Artifact Buffs** on top of the Profession Skills, as well as **Exhilirating Ephemera** or **Scoundrel's Luck** if they are equipped.
+
+<img width="375" height="233" alt="image" src="https://github.com/user-attachments/assets/a0a0d8a5-62dc-4de4-93cc-3105b95bf259" />
+
+Also tracks the traits **Prodigious Pincher** and **Combat High** if they are equipped with a bar under the Porfession Skills.
+
+**Prodigious Pincher:** 
+(Fills up as you use initiative, up to 15 charges. Every notch equals 5 initiative.)
+
+<img width="374" height="186" alt="image" src="https://github.com/user-attachments/assets/ba9819c6-2926-4558-ac70-e66583afdc8c" />
+
+**Combat Hight:** 
+(Charges on Steal and depletes over time)
+
+<img width="352" height="165" alt="image" src="https://github.com/user-attachments/assets/de7c2201-925a-4fa5-8a66-0f46a6cc233e" />
+
+Additionally, a simplified version of the Profession Bar + these trackers can be toggled in the middle of the screen, since thief does not rely on skill cooldowns, it frees up your eyes from moving to the bottom of the screen to track them:
+
+<img width="510" height="355" alt="image" src="https://github.com/user-attachments/assets/879b0851-6138-4c63-bd7f-324f32f30b74" />
+
+If you find this too cluttered, you can disable it under the Antiquary group under the name "Center UI":
+
+<img width="401" height="184" alt="image" src="https://github.com/user-attachments/assets/90611c55-ee98-4e2b-9203-49c704beef7a" />
+
+
 # Necromancer
 
 ## Spear Soul Shards
@@ -359,9 +394,11 @@ If the trait **Empowered Empowerment** is equipped, the bar will glow when at fu
 
 ## Evoker
 
-(WIP)
+Improves visibility of the **Evoker pet UI**, reducing pixel noise and adding a subtle pulse animation when fully charged.
 
-An update for Evoker is planned, but Reffect needs to be updated to be able to track when skills don't have the resource to be cast (greyed out lightning graphic state).
+<img width="136" height="97" alt="image" src="https://github.com/user-attachments/assets/3ce9cbeb-7122-4edc-b31d-cf2ad30293df" />
+<img width="345" height="179" alt="image" src="https://github.com/user-attachments/assets/c2e7b464-9913-4a2d-ad9c-45954de0e41b" />
+
 
 # Support Boons
 
@@ -382,11 +419,6 @@ A matching pulsing icon will appear over your weapon swap:
 If you don't like this feature you can simply disable the Boons element in the pack:
 
 <img width="241" height="309" alt="image" src="https://github.com/user-attachments/assets/4be2d296-747a-48e4-bc16-81003f18faee" />
-
-
-**Note:** Evoker's boon support trait, **Familiar's Blessing**, is a special case that requires a custom setup. It will make both alacrity and quickness blink if you don't have them, despite not being specialized in the appropriate Element to provide them. Generally this will not be an issue in group content since the other boon will be provided by your support. However, if you are always playing a quickness or alacrity build specifically, you can enable / disable the corresponding boon for Evoker specifically:
-
-<img width="276" height="140" alt="image" src="https://github.com/user-attachments/assets/b10796c7-cf86-48d8-acdb-a7e8f10bd70b" />
 
 
 # Settings
