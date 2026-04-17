@@ -17,7 +17,7 @@ A few examples (You can see an in-depth list of features after the How to use se
 
 <img width="472" height="243" alt="image" src="https://github.com/user-attachments/assets/b871d286-4da8-4705-af5a-788855c380cd" />
 
-**Conduit Affinity and Cosmic Wisdom Forms**
+**Conduit Affinity and Cosmic Wisdom Forms (OUTDATED)**
 
 <img width="512" height="273" alt="image" src="https://github.com/user-attachments/assets/a1c72a39-40fa-499e-bee2-2e0502e4c428" />
 
@@ -124,21 +124,37 @@ Additionally, turns the separator between F3 and F4 black to be consistent with 
 
 ## Spear
 
-Tracks the stack count of **Abyssal Raze** and, if the duration is under 5 seconds, will also display it's timer.
+Tracks the stack count of **Abyssal Raze** and, if the duration is under 3 seconds, will blink to warn you to refresh or weapon swap.
 
-<img width="147" height="137" alt="image" src="https://github.com/user-attachments/assets/e0c74e13-dd94-43b1-96fa-a1fbedab29bb" />
+<img width="298" height="239" alt="image" src="https://github.com/user-attachments/assets/3ffcd2c9-b2a6-422b-9159-88108406231b" />
+
+
+The old, simple display is also available if you prefer, which will display a timer under 5 seconds:
+
+<img width="124" height="173" alt="image" src="https://github.com/user-attachments/assets/7a98117c-129b-4b39-9829-906ffb720130" /><img width="428" height="120" alt="image" src="https://github.com/user-attachments/assets/3b8505e8-2cd1-46c9-baf5-863e130c003e" />
+
 
 ## Conduit
+
+Reduces Affinity animation delay as well as adding 2 extra pips if **Kinetic Insight** is equipped.
+
+<img width="225" height="177" alt="image" src="https://github.com/user-attachments/assets/76fa66ef-3ac4-461e-b416-575165b3dd1a" />
+
+Tracks **Cosmic Wisdom** duration along with your **active form**. 
+
+<img width="263" height="253" alt="image" src="https://github.com/user-attachments/assets/24f9423b-00f3-4bdb-9885-5768fb467f1a" />
+<img width="254" height="270" alt="image" src="https://github.com/user-attachments/assets/be94c2ff-aa98-4f0a-9ea0-8ec967940c1a" />
+
+
+**OLD UI**
+
+*(UPDATE: as of April 14th, 2026 the Conduit UI has been changed so this needed to be updated. The old version is still available, although disabled, if you want to use it. You will need to use the Simple version of the Spear tracker, though.)*
 
 Tracks **Affinity** over the health bar, styled after Razah's helmet.
 
 <img width="788" height="323" alt="image" src="https://github.com/user-attachments/assets/f4a439be-585f-45ba-bdfd-7b235c5c4c93" />
 <img width="919" height="304" alt="image" src="https://github.com/user-attachments/assets/74bad7d8-8e37-4401-b905-c154afff5aba" />
 
-Tracks **Cosmic Wisdom** duration along with your **active form**. 
-
-<img width="477" height="281" alt="image" src="https://github.com/user-attachments/assets/619933b2-af2c-4290-a9ba-7c61706fe2d4" />
-<img width="401" height="310" alt="image" src="https://github.com/user-attachments/assets/adb62077-8aac-46c1-a24d-3e7e682d7a32" />
 
 If **Kinetic Insight** is equipped adds 2 Affinity, but not over 5.
 
