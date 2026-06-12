@@ -27,7 +27,17 @@ A few examples (You can see an in-depth list of features after the How to use se
 
 # How to Use
 
-First, download the zip file to your reffect root folder like so:
+## Reffect
+
+**This is a content pack for the Reffect addon which can be found here:**
+
+https://github.com/Zerthox/gw2-reffect
+
+**If you don't have it, you'll need to install that first. Please follow the installation instructions on their page.**
+
+## Setup
+
+First, download the zip file to your Reffect root folder like so:
 
 <img width="566" height="217" alt="image" src="https://github.com/user-attachments/assets/057fbcc0-937b-4401-b915-e8da593e2daf" />
 
@@ -41,7 +51,7 @@ Finally, enable your interface size of choice:
 
 <img width="589" height="242" alt="image" src="https://github.com/user-attachments/assets/b8e6cf96-18f7-4a0c-b00e-c8b0c2d9a68d" />
 
-Some features have additional options you may want to look into as well, which you can enable much in the same way. They will be listed in the corresponding category.
+Some features have **additional options** you may want to look into as well, which you can enable much in the same way. They will be listed in the corresponding category.
 
 # Features
 
