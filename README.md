@@ -53,6 +53,13 @@ Finally, enable your interface size of choice:
 
 Some features have **additional options** you may want to look into as well, which you can enable much in the same way. They will be listed in the corresponding category.
 
+## Note
+
+Certain features require the "Reuse game icons (Experimental)" toggle to be turned on in the settings:
+
+<img width="815" height="414" alt="image" src="https://github.com/user-attachments/assets/8496cef3-0d17-4561-bea2-2faea2899914" />
+
+
 # Features
 
 # Warrior
