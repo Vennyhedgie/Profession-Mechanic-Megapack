@@ -15,11 +15,12 @@ A few examples (You can see an in-depth list of features after the How to use se
 
 **Necromancer Spear and Harbinger Blight**
 
-<img width="472" height="243" alt="image" src="https://github.com/user-attachments/assets/b871d286-4da8-4705-af5a-788855c380cd" />
+<img width="507" height="237" alt="image" src="https://github.com/user-attachments/assets/fb6bdbb2-cd84-4320-8a32-3f54dd1defa4" />
 
-**Conduit Affinity and Cosmic Wisdom Forms (OUTDATED)**
+**Conduit Affinity and Cosmic Wisdom Forms**
 
-<img width="512" height="273" alt="image" src="https://github.com/user-attachments/assets/a1c72a39-40fa-499e-bee2-2e0502e4c428" />
+<img width="500" height="298" alt="image" src="https://github.com/user-attachments/assets/61e2a8eb-fe89-45a3-9489-96323c20f2c5" />
+
 
 **Untamed's Unleash**
 
@@ -45,11 +46,18 @@ Then right click > Extract here (the necessary files will be added to the packs 
 
 Then, return to reffect ingame and refresh packs.
 
-Finally, enable your interface size of choice:
+Once the pack is installed, you'll have to **set the interface size that matches your current in-game interface size choice by Right clicking "Interface Normal" > Resize**:
 
-<img width="210" height="116" alt="image" src="https://github.com/user-attachments/assets/d9dcbfa0-9476-4101-aed2-ecacdb1a3976" />
+<img width="640" height="275" alt="image" src="https://github.com/user-attachments/assets/94487424-91f8-4341-8d01-68e51d88080c" />
+<img width="778" height="237" alt="image" src="https://github.com/user-attachments/assets/61a79c64-36b8-42b3-90c5-57d3e3b57553" />
 
-<img width="589" height="242" alt="image" src="https://github.com/user-attachments/assets/b8e6cf96-18f7-4a0c-b00e-c8b0c2d9a68d" />
+
+As listed, the sizes you should use are:
+
+- Small: 90%
+- Normal: 100% (Default, don't resize)
+- Large: 110%
+- Larger: 120%
 
 Some features have **additional options** you may want to look into as well, which you can enable much in the same way. They will be listed in the corresponding category.
 
@@ -161,22 +169,6 @@ Tracks **Cosmic Wisdom** duration along with your **active form**.
 
 <img width="263" height="253" alt="image" src="https://github.com/user-attachments/assets/24f9423b-00f3-4bdb-9885-5768fb467f1a" />
 <img width="254" height="270" alt="image" src="https://github.com/user-attachments/assets/be94c2ff-aa98-4f0a-9ea0-8ec967940c1a" />
-
-
-**OLD UI**
-
-*(UPDATE: as of April 14th, 2026 the Conduit UI has been changed so this needed to be updated. The old version is still available, although disabled, if you want to use it. You will need to use the Simple version of the Spear tracker, though.)*
-
-Tracks **Affinity** over the health bar, styled after Razah's helmet.
-
-<img width="788" height="323" alt="image" src="https://github.com/user-attachments/assets/f4a439be-585f-45ba-bdfd-7b235c5c4c93" />
-<img width="919" height="304" alt="image" src="https://github.com/user-attachments/assets/74bad7d8-8e37-4401-b905-c154afff5aba" />
-
-
-If **Kinetic Insight** is equipped adds 2 Affinity, but not over 5.
-
-<img width="879" height="277" alt="image" src="https://github.com/user-attachments/assets/a7503e84-8a85-44a9-9ee4-4e7b17b11d66" />
-<img width="809" height="283" alt="image" src="https://github.com/user-attachments/assets/7a2b8220-de66-45f0-915e-8ebdf274bddb" />
 
 # Ranger
 
