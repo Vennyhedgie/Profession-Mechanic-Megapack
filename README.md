@@ -1,11 +1,14 @@
-# Venny's Profession Mechanic Reffect Megapack
+# Description
 
-*If you find this useful and have some spare coin to tip, you can mail Oro Blanco in game.*
 
 A collection of additional visual elements for a few profession mechanics and weapons with hard to track buff icons or trait interactions.
 Some of them feature minor animations so they will look better in motion!
 
 These are meant to look somewhat cohesive with the existing UI style, using fairly minimalistic graphics or reusing exising UI assets.
+
+*If you find this useful and have some spare coin to tip, you can mail **Oro Blanco** in game.*
+
+# Examples
 
 A few examples (You can see an in-depth list of features after the How to use section):
 
@@ -21,12 +24,18 @@ A few examples (You can see an in-depth list of features after the How to use se
 
 <img width="500" height="298" alt="image" src="https://github.com/user-attachments/assets/61e2a8eb-fe89-45a3-9489-96323c20f2c5" />
 
-
 **Untamed's Unleash**
 
 <img width="475" height="271" alt="image" src="https://github.com/user-attachments/assets/41355dcb-256d-45e4-aa41-2cd826ab0421" />
 
 # How to Use
+
+## Video Tutorial
+
+[![YouTube](https://github.com/user-attachments/assets/602fff32-1258-443d-9d92-d34967d49346)](https://youtu.be/RGYJtT-vczo)
+
+## Setup
+These steps are covered in the video tutorial, but in case text format is prefereable:
 
 ## Reffect
 
@@ -35,6 +44,8 @@ A few examples (You can see an in-depth list of features after the How to use se
 https://github.com/Zerthox/gw2-reffect
 
 **If you don't have it, you'll need to install that first. Please follow the installation instructions on their page.**
+
+Last tested with Reffect version 0.11.2.
 
 ## Setup
 
@@ -51,7 +62,6 @@ Once the pack is installed, you'll have to **set the interface size that matches
 <img width="640" height="275" alt="image" src="https://github.com/user-attachments/assets/94487424-91f8-4341-8d01-68e51d88080c" />
 <img width="778" height="237" alt="image" src="https://github.com/user-attachments/assets/61a79c64-36b8-42b3-90c5-57d3e3b57553" />
 
-
 As listed, the sizes you should use are:
 
 - Small: 90%
@@ -59,16 +69,14 @@ As listed, the sizes you should use are:
 - Large: 110%
 - Larger: 120%
 
-Some features have **additional options** you may want to look into as well, which you can enable much in the same way. They will be listed in the corresponding category.
-
-## Note
-
 Certain features require the "Reuse game icons (Experimental)" toggle to be turned on in the settings:
 
 <img width="815" height="414" alt="image" src="https://github.com/user-attachments/assets/8496cef3-0d17-4561-bea2-2faea2899914" />
 
 
 # Features
+
+Some features have **additional options** you may want to look into as well, which you can enabled under their corresponding category.
 
 # Warrior
 
@@ -453,3 +461,16 @@ I've included a sepparate *Settings* file that will make duration bars and stack
 <img width="440" height="189" alt="image" src="https://github.com/user-attachments/assets/ae87bec5-1563-4c78-92f4-89f437f3d271" />
 
 (Make sure to backup yours if you have one already just in case!)
+
+# Disclaimer
+
+This pack can be used with both the default game UI or using my UI remake pack found here:
+https://github.com/Vennyhedgie/UI-Remake
+
+**Note:** if you decide to use both packs, there's a couple elements that are present in both, and should be disabled in the Megapack, as the version in the UI Remake pack is cleaner:
+- Harbinger's Blight 
+- Conduit's Affinity
+- Evoker's UI
+- Troubadour's UI
+
+
